@@ -24,5 +24,7 @@
       "crc": "edace99f"
     }
   ],
-  "remove": []
+  "remove": [
+    "Assets/"
+  ]
 }
