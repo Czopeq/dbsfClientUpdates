@@ -20,14 +20,14 @@
     },
     {
       "path": "Automap/automap_data.bin",
-      "crc": "887e8cd9",
-      "size": "1487358",
+      "crc": "5dd20673",
+      "size": "1186076",
       "preserve": "true"
     },
     {
       "path": "dbsf.exe",
-      "crc": "edace99f",
-      "size": "5748736"
+      "crc": "c1b5e32c",
+      "size": "5468672"
     }
   ],
   "remove": [
