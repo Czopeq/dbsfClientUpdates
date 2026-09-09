@@ -1,0 +1,28 @@
+{
+  "launcher_enabled": "true",
+  "client_enabled": "false",
+  "base_url": "https://update.dbsf.eu",
+  "files": [
+    {
+      "path": "Assets/dbsf.dat",
+      "crc": "c56c003a"
+    },
+    {
+      "path": "Assets/dbsf.pic",
+      "crc": "444d973c"
+    },
+    {
+      "path": "Assets/dbsf.spr",
+      "crc": "f404fdf1"
+    },
+    {
+      "path": "Automap/automap_data.bin",
+      "crc": "887e8cd9"
+    },
+    {
+      "path": "dbsf.exe",
+      "crc": "edace99f"
+    }
+  ],
+  "remove": []
+}
