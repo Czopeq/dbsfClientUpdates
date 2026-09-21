@@ -10,7 +10,7 @@
     },
     {
       "path": "Assets/dbsf.pic",
-      "crc": "635f98c8",
+      "crc": "636eb009",
       "size": "10585596"
     },
     {
@@ -26,8 +26,8 @@
     },
     {
       "path": "dbsf.exe",
-      "crc": "dd703786",
-      "size": "5667840"
+      "crc": "e4013c90",
+      "size": "5710336"
     }
   ],
   "remove": [
