@@ -5,18 +5,18 @@
   "files": [
     {
       "path": "Assets/dbsf.dat",
-      "crc": "001a2e28",
-      "size": "1596423"
+      "crc": "3a83a478",
+      "size": "1668897"
     },
     {
       "path": "Assets/dbsf.pic",
-      "crc": "636eb009",
-      "size": "10585596"
+      "crc": "faa256e3",
+      "size": "10684146"
     },
     {
       "path": "Assets/dbsf.spr",
-      "crc": "7f11d62b",
-      "size": "43481348"
+      "crc": "56b7bcec",
+      "size": "43739288"
     },
     {
       "path": "Automap/automap_data.bin",
@@ -26,8 +26,8 @@
     },
     {
       "path": "dbsf.exe",
-      "crc": "f0c26651",
-      "size": "5753344"
+      "crc": "c3f6f58c",
+      "size": "5832704"
     }
   ],
   "remove": [
