@@ -28,11 +28,6 @@
       "path": "dbsf.exe",
       "crc": "b9ee1651",
       "size": "5798400"
-    },
-    {
-      "path": "dbsf_stare.exe",
-      "crc": "c3f6f58c",
-      "size": "5832704"
     }
   ],
   "remove": [
