@@ -5,8 +5,8 @@
   "files": [
     {
       "path": "Assets/dbsf.dat",
-      "crc": "3a83a478",
-      "size": "1668897"
+      "crc": "5748969c",
+      "size": "1669134"
     },
     {
       "path": "Assets/dbsf.pic",
@@ -15,8 +15,8 @@
     },
     {
       "path": "Assets/dbsf.spr",
-      "crc": "56b7bcec",
-      "size": "43739288"
+      "crc": "92c77dfb",
+      "size": "43733121"
     },
     {
       "path": "Automap/automap_data.bin",
@@ -26,6 +26,11 @@
     },
     {
       "path": "dbsf.exe",
+      "crc": "e607bfbf",
+      "size": "5792256"
+    },
+    {
+      "path": "dbsf_stare.exe",
       "crc": "c3f6f58c",
       "size": "5832704"
     }
