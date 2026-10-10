@@ -5,8 +5,8 @@
   "files": [
     {
       "path": "Assets/dbsf.dat",
-      "crc": "5748969c",
-      "size": "1669134"
+      "crc": "654694a6",
+      "size": "1669136"
     },
     {
       "path": "Assets/dbsf.pic",
@@ -26,8 +26,8 @@
     },
     {
       "path": "dbsf.exe",
-      "crc": "81e89195",
-      "size": "5786624"
+      "crc": "7c6364a4",
+      "size": "5793792"
     }
   ],
   "remove": [
